@@ -12,19 +12,19 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 ### Before You Begin
 
-1. Create a new repository for this project called `D3-challenge`. **Do not add this homework to an existing repository**.
+1. Create a new repository for this project called `D3-challenge`
 
 2. Clone the new repository to your computer.
 
-3. Inside your local git repository, create a directory for the D3 challenge. Use the folder name to correspond to the challenge: **D3_data_journalism**.
+3. Inside your local git repository, create a directory for the D3 challenge.
 
-4. This homeworks utilizes both **html** and **Javascript** so be sure to add all the necessary files. These will be the main files to run for analysis.
+4. This Project utilizes both **html** and **Javascript** so be sure to add all the necessary files. These will be the main files to run for analysis.
 
 5. Push the above changes to GitHub or GitLab.
 
 ## Your Task
 
-### Core Assignment: D3 Dabbler (Required Assignment)
+### D3 Dabbler 
 
 ![4-scatter](Images/4-scatter.jpg)
 
@@ -40,7 +40,7 @@ Using the D3 techniques we taught you in class, create a scatter plot that repre
 
 - - -
 
-### Bonus: Impress the Boss (Optional Assignment)
+### Impress the Boss 
 
 Why make a static graphic when D3 lets you interact with your data?
 
@@ -76,7 +76,6 @@ Your final product will be assessed on the following metrics:
 
 * Professionalism
 
-**Good luck!**
 
 ### Copyright
 

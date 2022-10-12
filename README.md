@@ -44,7 +44,7 @@ Using the D3 techniques we taught you in class, create a scatter plot that repre
 
 Why make a static graphic when D3 lets you interact with your data?
 
-![7-animated-scatter](Images/7-animated-scatter.gif)
+![7-animated-scatter](D3_data_journalism/Images/7-animated-scatter.gif)
 
 #### 1. More Data, More Dynamics
 
